@@ -34,3 +34,4 @@ Screenshot
 
 ![Live Project](https://img.shields.io/badge/Responsive-yes-ecff19)
 ![Live Project](https://img.shields.io/badge/Deployed-yes-38B2AC)# Shopify-Clone-HTML
+# Shopify-Clone-HTML
